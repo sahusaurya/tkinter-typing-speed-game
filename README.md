@@ -66,3 +66,5 @@ python SpeedTyping_v3.4.py
 This repository contains the original implementation of the project with minimal
 changes. Future improvements may include database refactoring, modularization,
 and additional UI enhancements.
+
+**Created** October 2023
