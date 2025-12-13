@@ -1,0 +1,16 @@
+create table userdata
+(UserName varchar(20) Primary Key,
+Password varchar(20) NOT NULL,
+RegDate Date,
+TimePlayed varchar(20) NULL,
+WordsTyped Date default NULL,
+BegTop int default NULL,
+IntTop int default NULL,
+AdvTop int default NULL);
+
+
+create table scores
+(UserName varchar(30) Primary Key,
+DatePlay Date,
+Level varchar(50),
+Score int(255));

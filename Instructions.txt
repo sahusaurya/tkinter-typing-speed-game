@@ -1,0 +1,13 @@
+Welcome to speedtyping:
+
+Let me run you through the instructions on how to play the game and use the software to it's fullest to give you the best experience.
+
+
+In the menu bar you will find Options, Play and Scores.
+
+Under options tab you will find Home which allows you to go back to the login or register page and Exit which will allow you to close and exit the program. You will also find the profile page that shows all your personal details which gives you the opportunity to make any changes to you personal information.
+
+Under Play tab you will find 3 game modes namely Beginner, Intermediate and Advanced. To play the game click on any game mode that you would like to play. Then in the page that pops up. Click on start or restart button t6o play the task. This should display the things to be typed right below the start button and below the start button you should find a entry box that you must click on, to be able to type into it. Once you're done typing click on the show results button to see how you performed.
+
+Under the scores tab you will find scores that shows the top 20 scores of of all time of each level with the player that achieved it and also the date the feat was achieved.
+
