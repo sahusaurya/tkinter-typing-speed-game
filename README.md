@@ -33,8 +33,18 @@ practice GUI development and GUI–database integration.
 A full walkthrough of the application—including user registration, gameplay
 across difficulty levels, and leaderboard functionality—is available here:
 
-**Demo Video:**
-https://drive.google.com/file/d/12_StujZSdbkPyvqhRNQDcN2O7NzcvuEF/view?usp=sharing
+[Watch Demo Video](https://your-video-link)
+
+### Screenshots
+
+**Login / Home**
+![Login Screen](screenshots/login.png)
+
+**Gameplay**
+![Gameplay Screen](screenshots/gameplay.png)
+
+**Leaderboard**
+![Leaderboard Screen](screenshots/leaderboard.png)
 
 ---
 
@@ -56,7 +66,7 @@ not expected to set up or run the database to understand the codebase.
 3. Run the application:
 
 ```bash
-python SpeedTyping_v3.4.py
+python SpeedTyping_v4.py
 ```
 
 ---
@@ -67,4 +77,5 @@ This repository contains the original implementation of the project with minimal
 changes. Future improvements may include database refactoring, modularization,
 and additional UI enhancements.
 
-**Created** October 2023
+This project was originally developed in October 2023 as a desktop application to practice GUI development and database integration.
+
