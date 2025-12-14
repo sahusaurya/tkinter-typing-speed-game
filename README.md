@@ -33,7 +33,7 @@ practice GUI development and GUI–database integration.
 A full walkthrough of the application—including user registration, gameplay
 across difficulty levels, and leaderboard functionality—is available here:
 
-[Watch Demo Video](https://your-video-link)
+[Watch Demo Video](https://drive.google.com/file/d/12_StujZSdbkPyvqhRNQDcN2O7NzcvuEF/view?usp=sharing)
 
 ### Screenshots
 
